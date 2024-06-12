@@ -122,16 +122,16 @@ body{
 
 .topsec1 ul{
     list-style: none;
-    margin-top: 10px;
+    margin-top: 8px;
 
 }
 .topsec1 li{
     font-size: 13px;
-    padding: 4px;
+    padding: 3px;
     
 }
 .topsec1 ul  li a:hover{
-     font-size:15px;
+     font-size:14px;
      font-weight: bold;
      color: #282C3F;
      
@@ -139,6 +139,7 @@ body{
 .bottomsec1{
     width: 220px;
     height: 199px;
+    margin-top: 5px;
    
 }
 .bottomsec1 h4{
@@ -155,6 +156,12 @@ body{
 .bottomsec1 li{
     font-size: 13px;
     padding: 4px;
+    
+}
+.bottomsec1 ul  li:hover{
+    font-size:14px;
+    font-weight: bold;
+    color: #282C3F;
     
 }
 
@@ -180,6 +187,12 @@ body{
     padding: 4px;
     
 }
+.topsec2_men_pages ul  li:hover{
+    font-size:14px;
+    font-weight: bold;
+    color: #282C3F;
+    
+}
 
 .midsec2_men_pages{
     width: 220px;
@@ -201,6 +214,12 @@ body{
 .midsec2_men_pages li{
     font-size: 13px;
     padding: 4px;
+    
+}
+.midsec2_men_pages ul  li:hover{
+    font-size:14px;
+    font-weight: bold;
+    color: #282C3F;
     
 }
 .bottomsec2_men_pages{
@@ -229,6 +248,13 @@ body{
     list-style: none;
     margin-top: 10px;
 
+    
+}
+.topsec3_men_page ul  li:hover{
+    font-size:14px;
+    font-weight: bold;
+    color: #282C3F;
+    
 }
 .topsec3_men_page li{
     font-size: 13px;
@@ -267,6 +293,12 @@ body{
     padding-left: none;
     
 }
+.topsec4_men_page ul  li:hover{
+    font-size:14px;
+    font-weight: bold;
+    color: #282C3F;
+    
+}
 .bottomsec4_men_page{
     width: 220px;
     height: 140px;
@@ -286,6 +318,12 @@ body{
     font-size: 13px;
     padding: 5px;
     padding-left: none;    
+}
+.bottomsec4_men_page ul  li:hover{
+    font-size:14px;
+    font-weight: bold;
+    color: #282C3F;
+    
 }
 
 
@@ -308,6 +346,12 @@ body{
     font-size: 13px;
     padding: 6px;
     padding-left: none;    
+}
+.topsec5_men_page ul  li:hover{
+    font-size:14px;
+    font-weight: bold;
+    color: #282C3F;
+    
 }
 
 .women_pointsec1{
@@ -370,6 +414,12 @@ body{
     padding: 6px;
     padding-left: none;    
 }
+.topsec1_women_page ul  li:hover{
+    font-size:14px;
+    font-weight: bold;
+    color: #282C3F;
+    
+}
 
 .topsec2_women_page{
     width: 220px;
@@ -389,6 +439,12 @@ body{
     font-size: 13px;
     padding: 6px;
     padding-left: none;    
+}
+.topsec2_women_page ul  li:hover{
+    font-size:14px;
+    font-weight: bold;
+    color: #282C3F;
+    
 }
 
 .topsec3_women_page{
@@ -410,6 +466,12 @@ body{
     font-size: 13px;
     padding: 6px;
     padding-left: none;    
+}
+.topsec3_women_page ul  li:hover{
+    font-size:14px;
+    font-weight: bold;
+    color: #282C3F;
+    
 }
 .topsec4_women_page{
     width: 220px;
@@ -433,6 +495,12 @@ body{
     padding-left: none; 
       
 }
+.topsec4_women_page ul  li:hover{
+    font-size:14px;
+    font-weight: bold;
+    color: #282C3F;
+    
+}
 .bottomsec4_women_page{
     width: 220px;
     height: 180px;
@@ -453,7 +521,12 @@ body{
     padding: 6px;
     padding-left: none;    
 }
-
+.bottomsec4_women_page ul  li:hover{
+    font-size:14px;
+    font-weight: bold;
+    color: #282C3F;
+    
+}
 .topsec5_women_page{
     width: 180px;
     height: 150px;
@@ -475,6 +548,12 @@ body{
     padding: 6px;
     padding-left: none; 
       
+}
+.topsec5_women_page ul  li:hover{
+    font-size:14px;
+    font-weight: bold;
+    color: #282C3F;
+    
 }
 .midsec5_women_page{
     width: 180px;
@@ -498,7 +577,12 @@ body{
     padding-left: none; 
       
 }
-
+.midsec5_women_page ul  li:hover{
+    font-size:14px;
+    font-weight: bold;
+    color: #282C3F;
+    
+}
 .kids_pages_list{
     width:1140px;
     height:450px ;
@@ -545,7 +629,12 @@ body{
     padding: 6px;
     padding-left: none;    
 }
-
+.topsec1_kids_page ul  li:hover{
+    font-size:14px;
+    font-weight: bold;
+    color: #282C3F;
+    
+}
 .homeliving_pages_list{
     width:1140px;
     height:450px ;

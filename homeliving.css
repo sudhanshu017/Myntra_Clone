@@ -85,7 +85,7 @@ body{
    
     position: absolute;
     top: 80px;
-    left: -1000px;
+    left: -100px;
     background-color: white;
     visibility: hidden;
     opacity: 0;
@@ -97,7 +97,7 @@ body{
 .men_pages:hover .men_pages_list{
     opacity: 1;
     visibility: visible;
-    left: -60px;
+    
 
 }
 
@@ -329,7 +329,7 @@ body{
    
     position: absolute;
     top: 80px;
-    left: -1000px;
+    left: -100px;
     background-color: white;
     visibility: hidden;
     opacity: 0;
@@ -341,7 +341,7 @@ body{
 .women_pages:hover .women_page_list{
     opacity: 1;
     visibility: visible;
-    left: -60px;
+   
 
 }
 .women_pages_list_sec1{
@@ -504,7 +504,7 @@ body{
     height:450px ;
     position: absolute;
     top: 80px;
-    left: -1000px;
+    left: -100px;
     background-color: white;
     visibility:hidden;
     opacity: 0;
@@ -516,7 +516,7 @@ body{
 .kids_pages:hover .kids_pages_list{
     opacity: 1;
     visibility: visible;
-    left: -60px;
+   
 
 }
 .kids_pages_list_sec1{
@@ -552,7 +552,7 @@ body{
    
     position: absolute;
     top: 80px;
-    left: -1200px;
+    left: -100px;
     background-color: white;
     visibility:hidden;
     opacity: 0;
@@ -564,7 +564,7 @@ body{
 .homeliving_pages:hover .homeliving_pages_list{
     opacity: 1;
     visibility: visible;
-    left: -60px;
+   
 
 }
 .beauty_pages_list{
@@ -573,7 +573,7 @@ body{
    
     position: absolute;
     top: 80px;
-    left: -1000px;
+    left: -100px;
     background-color: white;
     visibility:hidden;
     opacity: 0;
@@ -585,7 +585,7 @@ body{
 .beauty_pages:hover .beauty_pages_list{
     opacity: 1;
     visibility: visible;
-    left: -60px;
+    
 
 
 
@@ -621,19 +621,19 @@ body{
    
     position: absolute;
     top: 80px;
-    left: -1200px;
+    left: 200px;
     background-color: white;
-    visibility: visible;
-    opacity: 1;
+    visibility: hidden;
+    opacity: 0;
     transition: 0.8s;
     
    
 }
 
 .studio_page:hover .studio_page_nav{
-    opacity: 1px;
+    opacity: 1;
     visibility: visible;
-    left: 200px;
+    
 }
 .studio_logo_div{
     width: 500px;
